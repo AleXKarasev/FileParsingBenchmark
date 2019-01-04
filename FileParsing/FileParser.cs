@@ -36,7 +36,7 @@ namespace FileParsing
         {
             using (var ftpClient = new FluentFtpProvider())
             {
-                parse(ftpClient.OpenRead("5MB.zip"));
+                parse(ftpClient.OpenRead("100MB.zip"));
             }
         }
 
