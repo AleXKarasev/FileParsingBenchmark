@@ -1,3 +1,4 @@
+# Result for 50MB files
 ``` ini
 
 BenchmarkDotNet=v0.11.3, OS=Windows 10.0.17134.345 (1803/April2018Update/Redstone4)
